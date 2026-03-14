@@ -1,4 +1,4 @@
-DrawEllipse. PHP Tutorials. 2D Graphics. GD. Web Application. 
+DrawEllipse. PHP Tutorials. 2D Graphics. GD. Web Application.
 This web application (site) consists of an HTML page with a file named "index.html" and a PHP script with a file named "DrawEllipse.php." 
 The web page with the file named "Index.html" is the start page of the web application (site). 
 It is a web form for submitting data to the PHP script with the file named "DrawEllipse.php" using the "POST" method.
@@ -13,7 +13,7 @@ A PHP script with a file named "DrawEllipse.php" does the following:
   1. Reads web form data. Data is read from numeric fields named "EllipseWidth" and "EllipseHeight."
   2. Creates variables to store the dimensions of the ellipse displayed on the screen.
   3. Creates an image with dimensions given by the values ​​of the corresponding variables.
-  4. Cleanses it with black light.
+  4. Clears it with black color.
   5. Creates variables for the red outline and yellow color of the ellipse.
   6. Sets the ellipse outline thickness to 30 pixels.
   7. Draws an ellipse with the previously specified parameters on a black background.
